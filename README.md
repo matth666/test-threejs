@@ -4,7 +4,7 @@ Just a litle exercise to test Three.js.
 
 ## Solar System
 
-I draw the solar system as first exercise, not really at scale of course...
+I drew the solar system as first exercise, not really at scale of course...
 It contains a star (the sun), 9 planets (I put back Pluton as a planet) and their respectives moons if exist.
 
 ## Run the system
