@@ -194,7 +194,7 @@ sol.add(jupiterAndMoons);
 sol.add(saturnAndMoons);
 sol.add(uranusAndMoons);
 sol.add(neptuneAndMoon);
-//sol.add(plutonAndMoon);
+sol.add(plutonAndMoon);
 scene.add(sol);
 
 const planetsRotation = () => {
