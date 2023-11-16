@@ -9,7 +9,7 @@ It contains a star (the sun), 9 planets (I put back Pluton as a planet) and thei
 
 ## Run the system
 
-In the console, at good directory (threejs-html)
+In the console, at good directory (test-threejs)
 
 ```
 npm install // to install deps
