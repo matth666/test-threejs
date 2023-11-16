@@ -197,7 +197,7 @@ sol.add(neptuneAndMoon);
 //sol.add(plutonAndMoon);
 scene.add(sol);
 
-const earthRotation = () => {
+const planetsRotation = () => {
   mercury.rotation.x += 0.01;
   venus.rotation.x += 0.01;
   earth.rotation.x += 0.01;
@@ -211,7 +211,7 @@ const earthRotation = () => {
 
 const animate = () => {
   requestAnimationFrame(animate);
-  earthRotation();
+  planetsRotation();
   controls.update();
   renderer.render(scene, camera);
 };
